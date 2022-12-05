@@ -1,0 +1,83 @@
+body {
+  background-color: beige;
+}
+.App {
+  padding: 10px;
+}
+.Main {
+  padding-top: 40px;
+  text-align: center;
+  color: thistle;
+}
+input {
+  margin-bottom: 5px;
+}
+.Heading {
+  font-weight: bold;
+  text-align: center;
+}
+.custom-file-upload {
+  background-color: thistle;
+  border-radius: 5px;
+  display: inline-block;
+  color: black;
+  text-align: center;
+  padding: 6px 12px;
+  cursor: pointer;
+}
+img {
+  width: 20vw;
+  height: auto;
+  text-align: center;
+}
+p {
+  width: 50vw;
+}
+.progress-label {
+  text-align: center;
+  margin-bottom: 5px;
+}
+.progress-bar {
+  margin: auto;
+  padding-bottom: 10px;
+  text-align: center;
+  background-color: whitesmoke;
+  border-radius: 10px;
+  overflow: hidden;
+  max-width: 50vw;
+}
+.progress {
+  background-color: thistle;
+  width: 0%;
+  height: 10px;
+}
+.placeholderText {
+  text-align:center; 
+  vertical-align: middle;
+  margin: auto;
+}
+.textAreaStyle {
+  width: 28vw;
+  height: 10vh;
+  border-radius: 5px;
+  border: 1px solid thistle;
+  resize: both;
+  pointer-events: none;
+  overflow-y: scroll;
+}
+::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+  color: black;
+}
+.buttonStyle {
+  background-color: thistle;
+  color: black;
+  border: none;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: black;
+  display: inline-block;
+  border-radius: 5px;  
+  font-size: 16px;
+  margin: 20px 2px;
+  cursor: pointer;
+}
