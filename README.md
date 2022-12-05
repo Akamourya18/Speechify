@@ -1,9 +1,3 @@
-<p align="center">
-  <a href="https://gitpoint.co/">
-    <img alt="IMReader" title="IMReader" src="https://i.ibb.co/4KdnnZK/OCR-BG.png" height="400px" width="700px">
-  </a>
-</p>
-
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
@@ -20,7 +14,7 @@
 
 ## 🚀 Overview
 
-IMReader Tool is a accessibility tool for processing images at ease. It is built using React.js for frontend, Tesseract.js for OCR and Speech Synthesis feature of the Web Speech API to render audio. It is a small step towards making working with images more accessible. The project takes inspiration from recent developments in the area of OCR TTS to develop feasible reading assistants for differently-abled people while working with digital content.
+Speechify Tool is a accessibility tool for processing images at ease. It is built using React.js for frontend, Tesseract.js for OCR and Speech Synthesis feature of the Web Speech API to render audio. It is a small step towards making working with images more accessible. The project takes inspiration from recent developments in the area of OCR TTS to develop feasible reading assistants for differently-abled people while working with digital content.
 
 The tool mainly utilizes:
 
